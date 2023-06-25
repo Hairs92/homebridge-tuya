@@ -1,9 +1,9 @@
 {
-  "name": "homebridge-tuya",
+  "name": "@Hairs92/homebridge-tuya",
 
   "version": "3.0.0-beta.2",
 
-  "description": "🏠 Offical Homebridge plugin for TuyAPI ",
+  "description": "Branch of Offical Homebridge plugin for TuyAPI ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iRayanKhan/homebridge-tuya.git"
+    "url": "git+https://github.com/Hairs92/homebridge-tuya.git"
   },
-  "author": "Rayan Khan",
+  "author": "Hairs92",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iRayanKhan/homebridge-tuya/issues"
+    "url": "https://github.com/Hairs92/homebridge-tuya/issues"
   },
-  "homepage": "https://github.com/iRayanKhan/homebridge-tuya#readme",
+  "homepage": "https://github.com/Hairs92/homebridge-tuya#readme",
   "dependencies": {
     "async": "^3.1.0",
     "commander": "^3.0.1",
